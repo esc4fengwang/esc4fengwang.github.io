@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f53508c.css",
+    "main.js": "/static/js/main.df2e6394.js",
+    "static/js/630.8edd9f9c.chunk.js": "/static/js/630.8edd9f9c.chunk.js",
+    "static/js/738.5d1dcd1d.chunk.js": "/static/js/738.5d1dcd1d.chunk.js",
+    "static/js/372.877e509b.chunk.js": "/static/js/372.877e509b.chunk.js",
+    "static/js/856.cba61921.chunk.js": "/static/js/856.cba61921.chunk.js",
+    "static/js/22.a8e21ca0.chunk.js": "/static/js/22.a8e21ca0.chunk.js",
+    "static/js/851.d39c3124.chunk.js": "/static/js/851.d39c3124.chunk.js",
+    "static/js/215.6fe3dfc8.chunk.js": "/static/js/215.6fe3dfc8.chunk.js",
+    "static/js/841.f2e0fa7c.chunk.js": "/static/js/841.f2e0fa7c.chunk.js",
+    "static/js/186.f394dfdf.chunk.js": "/static/js/186.f394dfdf.chunk.js",
+    "static/js/573.6563ae10.chunk.js": "/static/js/573.6563ae10.chunk.js",
+    "static/js/377.750a0c57.chunk.js": "/static/js/377.750a0c57.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.6f53508c.css.map": "/static/css/main.6f53508c.css.map",
+    "main.df2e6394.js.map": "/static/js/main.df2e6394.js.map",
+    "630.8edd9f9c.chunk.js.map": "/static/js/630.8edd9f9c.chunk.js.map",
+    "738.5d1dcd1d.chunk.js.map": "/static/js/738.5d1dcd1d.chunk.js.map",
+    "372.877e509b.chunk.js.map": "/static/js/372.877e509b.chunk.js.map",
+    "856.cba61921.chunk.js.map": "/static/js/856.cba61921.chunk.js.map",
+    "22.a8e21ca0.chunk.js.map": "/static/js/22.a8e21ca0.chunk.js.map",
+    "851.d39c3124.chunk.js.map": "/static/js/851.d39c3124.chunk.js.map",
+    "215.6fe3dfc8.chunk.js.map": "/static/js/215.6fe3dfc8.chunk.js.map",
+    "841.f2e0fa7c.chunk.js.map": "/static/js/841.f2e0fa7c.chunk.js.map",
+    "186.f394dfdf.chunk.js.map": "/static/js/186.f394dfdf.chunk.js.map",
+    "573.6563ae10.chunk.js.map": "/static/js/573.6563ae10.chunk.js.map",
+    "377.750a0c57.chunk.js.map": "/static/js/377.750a0c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f53508c.css",
+    "static/js/main.df2e6394.js"
+  ]
+}
